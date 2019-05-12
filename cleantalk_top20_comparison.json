@@ -1,0 +1,134 @@
+[
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1489,
+		"common": 2
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 18191,
+		"common": 18
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 6523,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 2805,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 268068,
+		"common": 13
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 94835,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 1430,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 75615,
+		"common": 20
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 33398,
+		"common": 9
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 9335,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 421017,
+		"common": 20
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9391829,
+		"common": 18
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 12
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8933120,
+		"common": 4
+	},
+	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 11320,
+		"common": 19
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 171203,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 268300,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 5812,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 69417,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 366252,
+		"common": 20
+	},
+	{
+		"name": "stopforumspam_7d",
+		"category": "abuse",
+		"ips": 25169,
+		"common": 12
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 172926,
+		"common": 20
+	}
+]

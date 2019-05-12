@@ -1,0 +1,152 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 475,
+		"common": 1
+	},
+	{
+		"name": "bambenek_necurs",
+		"category": "malware",
+		"ips": 40,
+		"common": 1
+	},
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5269984,
+		"common": 20
+	},
+	{
+		"name": "bogons",
+		"category": "unroutable",
+		"ips": 592708608,
+		"common": 536870912
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 18187,
+		"common": 1
+	},
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594598296,
+		"common": 536870912
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 261299,
+		"common": 256
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 90905,
+		"common": 88
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 203048,
+		"common": 244
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 64945,
+		"common": 84
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 74299,
+		"common": 35
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 32181,
+		"common": 12
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 414545,
+		"common": 256
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 626647380,
+		"common": 536870912
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9392056,
+		"common": 2
+	},
+	{
+		"name": "fullbogons",
+		"category": "unroutable",
+		"ips": 606740424,
+		"common": 536870912
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 64947,
+		"common": 3
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 47199,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 647770791,
+		"common": 520093696
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 594598296,
+		"common": 536870912
+	},
+	{
+		"name": "iblocklist_fornonlancomputers",
+		"category": "reputation",
+		"ips": 302055424,
+		"common": 268435456
+	},
+	{
+		"name": "iblocklist_iana_multicast",
+		"category": "unroutable",
+		"ips": 268435456,
+		"common": 268435456
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 331098,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 512
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 81027,
+		"common": 2
+	}
+]
